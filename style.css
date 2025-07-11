@@ -794,60 +794,15 @@ body {
         width: 76px !important;
     }
 
-    .date__of__birth {
-        position: relative;
-        border: 3px solid var(--color-black);
-        transform: translateY(0px) !important;
-        z-index: 1;
-        opacity: 1 !important;
-        visibility: visible !important;
-        width: 250px !important;
-        height: 45px !important;
-        margin: 20px auto;
-        display: flex;
-        justify-content: center;
-        align-items: center;
-    }
-
-    .date__of__birth span {
-        font-size: 1rem !important;
-        margin: 0px 10px !important;
-        font-weight: bold;
-    }
-
-    .date__of__birth i {
-        font-size: 0.8rem;
-        margin: 0 5px;
-    }
-
-    /* Ensure left column elements are properly centered on mobile */
-    .content .left {
-        width: 100%;
-        align-items: center;
-    }
-
-    /* Sound popup mobile styles */
-    .sound-popup-content {
-        padding: 30px 20px;
-        width: 90%;
-        max-width: 350px;
-    }
-
-    .sound-popup-content h3 {
-        font-size: 1.5rem;
-    }
-
-    .sound-popup-content p {
-        font-size: 1rem;
-    }
-
-    #enableSoundBtn {
-        padding: 12px 25px;
-        font-size: 1rem;
-    }
-
 
 }
+
+
+
+
+
+
+
 .boxMail{
     position: fixed;
     background: rgb(0, 0, 0, 0.8);
